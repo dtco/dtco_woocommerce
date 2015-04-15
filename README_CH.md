@@ -1,6 +1,6 @@
 ﻿# DTCO比特幣支付套件 - WooCommerce
 
-即時整合比特幣付款與您的 WordePress 線上商店 - WooCommerce
+即時整合比特幣付款與您的 WordPress 線上商店 - WooCommerce
 
 #### - 如何安裝 -
 1. 從 GitHub 下載 .zip 壓縮檔
