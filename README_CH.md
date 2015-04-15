@@ -22,7 +22,7 @@
 ####　
 若有任何申請 API key 或 DTCO API 相關問題，請與<a href="http://dtco.co/">DTCO</a>聯繫.
 
-若有任何關於此plugin的問題,請直接在此提出issue
+若有任何關於此套件的問題,請直接在此提出issue
 
 謝謝您
 
