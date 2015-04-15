@@ -13,7 +13,7 @@ Instant integration bitcoin payments with your WordPress online store - WooComme
 
 
 #### - How to use -
-1. Go to setting of 'WooCommerce' and you will see 'DTCO' in 'CheckOut' tab.
+1. Go to the setting of 'WooCommerce' and you will see 'DTCO' in 'CheckOut' tab.
 
 2. Make sure to apply API key from DTCO and put it in 'DTCO' setting.
 
