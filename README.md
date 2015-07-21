@@ -1,6 +1,6 @@
-# DTCO bitcoin payment plugin for WooCommerce
+﻿# DTCO bitcoin payment plugin for WooCommerce
 
-Instant integration bitcoin payments with your WordPress online store - WooCommerce.
+Instantly integrated bitcoin payment with your WordPress online store - WooCommerce.
 
 #### - How to install -
 1. Download the zip file from GitHub.
@@ -15,15 +15,15 @@ Instant integration bitcoin payments with your WordPress online store - WooComme
 #### - How to use -
 1. Go to the setting of 'WooCommerce' and you will see 'DTCO' in 'CheckOut' tab.
 
-2. Make sure to apply API key from DTCO and put it in 'DTCO' setting.
+2. Be sure to apply API key from DTCO and put it in 'DTCO' setting.
 
 3. Check to enable the DTCO Payment.
 
 ####　
-If there is any questions about API key or DTCO Payment API,
+If there are any questions about API key or DTCO Payment API,
 Please contact with <a href="http://dtco.co/">DTCO</a>.
 
-If there is any questions about this plugin,
+If there are any questions about this plugin,
 Please raise issue here.
 
 Thank you.
